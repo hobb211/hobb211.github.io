@@ -1,0 +1,44 @@
+#about {
+    margin: o;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100vW;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+.scroll-target {
+  scroll-margin-top: 75px;
+}
+
+.modal-xl {
+  max-width: 90vw; 
+  max-height: 90vh; 
+}
+
+.modal-xl .modal-content {
+  max-height: 90vh;
+  overflow: hidden; 
+}
+
+.modal-xl .modal-body img {
+  max-width: 100%;
+  max-height: 80vh; 
+  object-fit: contain; 
+  display: block;
+  margin: 0 auto;
+}
+
+[id^="miniCarousel-"] .carousel-inner img {
+  height: 250px;
+  width: auto;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+.text-justify {
+  text-align: justify !important;
+}
