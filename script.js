@@ -46,14 +46,14 @@ const projects = [
         ],
         technologies: ["Next.js", "Nest.js", "Node.js", "JavaScript", "PostgreSQL", "Python"],
     },
-    {
+    /* {
         title: "Proyecto Go-Ecommerce",
         description: "Proyecto de e-commerce desarrollado como un proyecto universitario, que utiliza microservicios para crear una tienda online.",
         images: [
             "assets/Go-Ecommerce/1.png",
         ],
         technologies: ["Angular", "Nest.js", "Node.js", "JavaScript", "MySQL", "Docker", "RabbitMQ", "Golang"]
-    }
+    } */
 ]
 
 // Function to create a projects with carousels and modals from the projects array
