@@ -1,7 +1,7 @@
 const projects = [
     {
         title: "Actualización del sistema de gestión de formación docente",
-        description: "Sistema de gestión utilizado po la Dirección de Innovación Docente y Desarrollo Curricular de la Universidad Católica del Norte, que permite gestionar la formación docente, niveles de competencia y certificación de los académicos de la universidad. El sistema fue desarrollado con React, Node.js, el framework Koa.js y una base de datos de PostgreSQL. El proyecto abarco la incorporación de nuevas funcionalidades, incorporación de reportes mejorados para la toma de decisiones, mejoras en la interfaz de usuario, optimización del rendimiento y corrección de errores.",
+        description: "Sistema de gestión utilizado por la Dirección de Innovación Docente y Desarrollo Curricular de la Universidad Católica del Norte, que permite gestionar la formación docente, niveles de competencia y certificación de los académicos de la universidad. El sistema fue desarrollado con React, Node.js, el framework Koa.js y una base de datos de PostgreSQL. El proyecto abarcó la incorporación de nuevas funcionalidades, incorporación de reportes mejorados para la toma de decisiones, mejoras en la interfaz de usuario, optimización del rendimiento y corrección de errores.",
         images: [
             "assets/DIDDEC/DIDDEC Ofertas Formativas.png"
         ],
@@ -9,7 +9,7 @@ const projects = [
     },
     {
         title: "Implementación de Freshchat en DropControl",
-        description: "DropControl es un sistema de monitoreo y administración de campos agrícolas desarrollado por la empresa WiseConn. Este sistema permite a los agricultores gestionar los niveles de agua en sus campos y programar riegos automatizados, optimizando el uso de recursos hídricos. Este proyecto consistió en la implementación de Freshchat, una herramienta de chat en vivo, para mejorar la comunicación con los clientes y brindar soporte técnico en tiempo real.  Esta implementación abarco el sitio web moderno en Next.js, el sitio web antiguo en Struts2 y la aplicación movil en ReactNative junto con la recopilación de datos de los clientes que contactan al soporte para agilizar el proceso de atención.",
+        description: "DropControl es un sistema de monitoreo y administración de campos agrícolas desarrollado por la empresa WiseConn. Este sistema permite a los agricultores gestionar los niveles de agua en sus campos y programar riegos automatizados, optimizando el uso de recursos hídricos. Este proyecto consistió en la implementación de Freshchat, una herramienta de chat en vivo, para mejorar la comunicación con los clientes y brindar soporte técnico en tiempo real.  Esta implementación abarcó el sitio web moderno en Next.js, el sitio web antiguo en Struts2 y la aplicación móvil en React Native junto con la recopilación de datos de los clientes que contactan al soporte para agilizar el proceso de atención.",
         images: [
             "assets/WiseConn/Freshchat New dropcontrol.png",
             "assets/WiseConn/Freshchat Cuenta New DropControl.png",
@@ -27,7 +27,7 @@ const projects = [
     },
     {
         title: "Proyecto de gestión de Inventario | AgroFamily",
-        description: "Sistema de gestión de inventario desarrollado para la pyme AgroFamily, que permite gestionar los productos agrícolas y sus ventas. El sistema fue desarrollado como un proyecto universitario en colaboración con un socio de la comuna, para ello se utilizo WPF en .NET 6 con SQLite como base de datos.",
+        description: "Sistema de gestión de inventario desarrollado para la pyme AgroFamily, que permite gestionar los productos agrícolas y sus ventas. El sistema fue desarrollado como un proyecto universitario en colaboración con un socio de la comuna, para ello se utilizó WPF en .NET 6 con SQLite como base de datos.",
         images: [
             "assets/AgroFamily/0.png",
             "assets/AgroFamily/1.png",
@@ -38,7 +38,7 @@ const projects = [
     },
     {
         title: "Proyecto de reportes mineros",
-        description: "Sistema de reportes mineros desarrollado como un proyecto universitario, que permite generar informes sobre la producción minera a partir de los datos almacenados en una carpeta, estos datos pasan por un ETL que se ejecuta periódicamente y luego son cargados a la base de datos para su analisis en el sistema.",
+        description: "Sistema de reportes mineros desarrollado como un proyecto universitario, que permite generar informes sobre la producción minera a partir de los datos almacenados en una carpeta, estos datos pasan por un ETL que se ejecuta periódicamente y luego son cargados a la base de datos para su análisis en el sistema.",
         images: [
             "assets/Reportes Mineros/login.png",
             "assets/Reportes Mineros/menu.png",
